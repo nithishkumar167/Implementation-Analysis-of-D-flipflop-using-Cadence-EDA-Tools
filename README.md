@@ -47,8 +47,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
 
+
+![01](https://github.com/user-attachments/assets/03b66512-db75-4249-9921-f4af12afebff)
 
 
  
@@ -66,7 +67,9 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+
+
+![02](https://github.com/user-attachments/assets/8eb6623a-261b-4081-9510-17ad5d641124)
 
 
 iv)	Creating the new test cell view
@@ -79,7 +82,7 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![03](https://github.com/user-attachments/assets/195fd8c5-8560-4bd9-b356-cd428469c48d)
 
 
  
@@ -93,15 +96,19 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- 
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+
+ ![04](https://github.com/user-attachments/assets/5e692d03-f4b2-4321-bf32-ab35089de1f1)
+
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+ ![05](https://github.com/user-attachments/assets/d62f2dac-a403-41c7-85f9-27315f5ed2dc)
+
+
+![06](https://github.com/user-attachments/assets/7bd37482-147a-4f11-ba94-2a806a180d43)
+ttachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
 
 
 Results:
